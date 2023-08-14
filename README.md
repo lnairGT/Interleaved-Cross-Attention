@@ -16,7 +16,7 @@ python train.py
 python eval.py
 ```
 
-Validation with the provided model config and code achieved **~81% accuracy** on CIFAR10. Training logs for the run is shown below.
+Validation with the provided model config and code achieved **~81.8% accuracy** on CIFAR10. Training logs for the run is shown below.
 
 <p float="left">
   <img src="Train_loss.png" width="300" />
