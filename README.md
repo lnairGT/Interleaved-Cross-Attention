@@ -18,8 +18,10 @@ python eval.py
 
 Validation with the provided model config and code achieved **~81% accuracy** on CIFAR10. Training logs for the run is shown below.
 
-<img src="Train_loss.png" alt="Training loss" width="300"/>
-<img src="Val_loss.png" alt="Validation loss" width="300"/>
+<p float="left">
+  <img src="Train_loss.png" width="300" />
+  <img src="Val_loss.png" width="300" /> 
+</p>
 
 
 ## Acknowledgements
