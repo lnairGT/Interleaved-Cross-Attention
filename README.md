@@ -23,6 +23,7 @@ Validation with the provided model config and code achieved **~81.8% accuracy** 
   <img src="Val_loss.png" width="300" /> 
 </p>
 
+Code for training and evaluating the OpenAI CLIP model on CIFAR10 can be found in the `openai_clip_cifar10` folder.
 
 ## Acknowledgements
 This code is based on two awesome repos: CLIP from OpenAI (https://github.com/openai/CLIP) and OpenAI-CLIP from moein-shariatnia (https://github.com/moein-shariatnia/OpenAI-CLIP). Thank you to the respective authors for open-sourcing their great work!
@@ -32,3 +33,4 @@ This code is based on two awesome repos: CLIP from OpenAI (https://github.com/op
 - [ ] Optimize code to run more efficiently
 - [ ] Add code for additional datasets
 - [ ] Further validation and testing
+- [ ] Evaluate zero-shot performance
